@@ -1,0 +1,33 @@
+{
+    "name": "jsdom-toy-tale-nyc-web-012720",
+    "version": "1.0.0",
+    "description": "You've got a friend in need! Your friend Andy recently misplaced all their toys! Help Andy recover their toys and get the toys back in the toy collection.",
+    "main": "index.js",
+    "dependencies": {
+        "xo": "^0.28.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "lint": "xo --fix"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wags83/jsdom-toy-tale-nyc-web-012720.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wags83/jsdom-toy-tale-nyc-web-012720/issues"
+    },
+    "homepage": "https://github.com/wags83/jsdom-toy-tale-nyc-web-012720#readme",
+    "xo": {
+        "envs": [
+            "browser"
+        ],
+        "prettier": true,
+        "rules": {
+            "radix": 0,
+            "capitalized-comments": 0
+        }
+    }
+}

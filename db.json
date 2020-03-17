@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "newToy1",
+      "image": "https://images.pexels.com/photos/36989/pexels-photo.jpg?cs=srgb&dl=white-and-black-dog-robot-on-clear-glass-table-36989.jpg&fm=jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "newToy2",
+      "image": "https://images.pexels.com/photos/982105/pexels-photo-982105.jpeg?cs=srgb&dl=yellow-and-red-5-door-hatchback-die-cast-model-982105.jpg&fm=jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "newToy4",
+      "image": "https://images.pexels.com/photos/163157/mario-luigi-figures-funny-163157.jpeg?cs=srgb&dl=macro-photography-of-mario-and-luigi-plastic-toy-163157.jpg&fm=jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "newToy3",
+      "image": "https://www.pexels.com/photo/animals-bear-chicken-colourful-59720/",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
